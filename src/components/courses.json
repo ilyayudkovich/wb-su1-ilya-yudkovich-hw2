@@ -1,0 +1,432 @@
+[
+  {
+    "id": "123",
+    "title": "CS5610",
+    "modules": [
+      {
+        "title": "Week 1",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": [
+              {
+                "title": "Tags",
+                "widgets": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Week 2",
+        "lessons": [
+          {
+            "title": "LETCHER",
+            "topics": [
+              {
+                "title": "OMG",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "YESSIR",
+                "widgets": []
+              },
+              {
+                "title": "CLASS",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "RICKY",
+            "topics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "title": "CS5200",
+    "modules": [
+      {
+        "title": "Week 1",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "title": "Week 2",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "345",
+    "title": "CS3500",
+    "modules": [
+      {
+        "title": "Week 1",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "title": "Week 2",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "456",
+    "title": "CS4500",
+    "modules": [
+      {
+        "title": "Week 1",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "title": "Week 2",
+        "lessons": [
+          {
+            "title": "HTML",
+            "topics": [
+              {
+                "title": "DOM",
+                "widgets": [
+                  {
+                    "type": "HEADING",
+                    "size": 1,
+                    "text": "The Document Object Model"
+                  },
+                  {
+                    "type": "PARAGRAPH",
+                    "text": "This topic introduces the DOM"
+                  },
+                  {
+                    "type": "LIST",
+                    "items": "Nodes,Attributes,Tag names,IDs,Styles,Classes"
+                  },
+                  {
+                    "type": "IMAGE",
+                    "src": "https://picsum.photos/200"
+                  },
+                  {
+                    "type": "LINK",
+                    "title": "The DOM",
+                    "href": "https://en.wikipedia.org/wiki/Document_Object_Model"
+                  }
+                ]
+              },
+              {
+                "title": "Tags",
+                "widgets": []
+              },
+              {
+                "title": "Attributes",
+                "widgets": []
+              }
+            ]
+          },
+          {
+            "title": "CSS",
+            "topics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "567",
+    "title": "CS5500",
+    "modules": [
+      {
+        "title": "SCRUM"
+      }
+    ]
+  }
+]
